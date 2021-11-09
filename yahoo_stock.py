@@ -38,8 +38,8 @@ def name_price(url):
     
 
     _data=pd.DataFrame()
-    _data['company']=stocks_name
-    _data['price']=stocks_price
+    _data['股名/股號']=stocks_name
+    _data['股價']=stocks_price
     
     return _data
     
