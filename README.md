@@ -12,7 +12,7 @@
 
 
 ## 專案畫面截圖
-![image](./yahoo_stock.png)
+<img src="./yahoo_stock.png" alt="Cover" width="20%"/>
 
 
 ## 開發環境
