@@ -1,8 +1,8 @@
 # Web Crawler
 
-語言:Python
-爬蟲模組:requests,BeautifulSoup
-資料處理模組:pandas
+- 語言:Python
+- 爬蟲模組:requests,BeautifulSoup
+- 資料處理模組:pandas
 
 ## 主要功能
 
