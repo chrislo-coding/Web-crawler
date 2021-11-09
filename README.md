@@ -12,7 +12,7 @@
 
 
 ## 專案畫面截圖
-![image](./手機版尺寸.png)
+![image](./yahoo_stock.png)
 
 
 ## 開發環境
