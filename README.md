@@ -1,7 +1,7 @@
 # Web Crawler
 ## Yahoo股市 國際指數 股價
 
-##爬蟲語言＆模組
+## 爬蟲語言＆模組
 
 - 語言:Python
 - 爬蟲模組:requests,BeautifulSoup
