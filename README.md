@@ -14,7 +14,7 @@
 
 ## 目標網站畫面截圖
 <img src="./target_1.png" alt="cover" width="45%">
-<img src="./target_2.png" alt="cover" width="45%">
+<img src="./target_2.png" alt="cover" width="45%" >
 
 ## cvs檔案畫面截圖
 <img src="./yahoo國際指數.png" alt="Cover" width="35%"/>
