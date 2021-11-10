@@ -1,4 +1,7 @@
 # Web Crawler
+## Yahoo股市 國際指數 股價
+
+##爬蟲語言＆模組
 
 - 語言:Python
 - 爬蟲模組:requests,BeautifulSoup
@@ -13,8 +16,9 @@
 
 
 ## 目標網站畫面截圖
-<img src="./target_1.png" alt="cover" width="45%">
-<img src="./target_2.png" alt="cover" width="45%" >
+- 目標網站：https://tw.stock.yahoo.com/world-indices （數值隨著股價變動而更改）
+
+<img src="./target_1.png" alt="cover" width="45%"> <img src="./target_2.png" alt="cover" width="45%" >
 
 
 ## cvs檔案畫面截圖
